@@ -1,5 +1,5 @@
 # dali-pong-game
-This is a much-expanded version of the pong game from CS1. Over the summer I decided to add many more features, including a scoreboard, a color-changing ball, and more realistic ball movements.
+This is a much-expanded version of the pong game from CS1. Over the summer I decided to add many more features, including a scoreboard, a color-changing ball, and randomized ball movements.
 
 Simply run pong.py to play the game. Hitting the space bar starts the game, and the ball will start moving. Typing 'q' at any time will quit the game.
 
